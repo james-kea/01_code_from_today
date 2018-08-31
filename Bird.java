@@ -10,7 +10,8 @@ public class Bird {
         
         public void moveForward(){
         
-         
+             System.out.println("Jeg tager et skridt frem!");
+                  
         }
          
 
