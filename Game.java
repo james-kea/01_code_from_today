@@ -20,7 +20,19 @@ public class Game {
              // eksikverer jeg metoden
              pelle.makeSound();
              
-                   
+             parrot.moveForward();
+             parrot.moveForward();
+             parrot.moveForward();
+             
+             // ØVELSE:
+             // 1. Få grisen til at gøre et eller andet i fohold 
+             // til at blive animeret
+             
+             // 2. få fuglen til at kunne dreje 45 grader.
+             // få den derefter til at dreje rundt og 
+             // gå tilbage til dens udgangspunkt
+             
+                  
          }
 
 
