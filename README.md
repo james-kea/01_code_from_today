@@ -4,3 +4,14 @@
 Klasse Diagram Angry Bird
 
 ![](KlasseDiagramAngryBird.JPG)
+
+## Hvad har vi lært om indtil nu?
+* Lave en klasse
+* Lavet et simpelt klasse diagram
+* Metoder
+ * metodedeklaration
+ * metodekald
+* Lavet attributter til klasserne
+* Attributter er navneord
+* main metoden spm eksekverer programmet
+
