@@ -8,12 +8,17 @@ public class Game {
              // Lav et object af Bird
              // Lav en ny fugl
              Bird parrot = new Bird();
+             
+             // Lav en ny gris
+             Pig pelle = new Pig();
+
              // eksikver metoden
              parrot.moveForward();
              parrot.moveForward();
              parrot.moveForward();
              
-             
+             // eksikverer jeg metoden
+             pelle.makeSound();
              
                    
          }

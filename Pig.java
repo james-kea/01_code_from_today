@@ -21,7 +21,7 @@ public class Pig {
         }
         
         public void makeSound () {
-        
+            System.out.println("Whiiiiiiiiii!");
         }
 
 }
